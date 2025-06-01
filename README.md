@@ -17,7 +17,7 @@ Click https://aibasedrecipegenerator-gxy7cydlq5laakncdhaavq.streamlit.app/ to tr
 🌐 Easy deployment and responsive interface
 
 🛠️ Tech Stack
-Frontend: Streamlit / React 
+Frontend: Streamlit 
 
 Backend/AI Model: Python (OpenAI API/ Custom LLM) Ollama
 
