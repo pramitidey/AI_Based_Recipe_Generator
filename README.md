@@ -1,4 +1,5 @@
-🍳 AI-Based Recipe Generator
+🍳 ##AI-Based Recipe Generator
+
 An AI-powered web application that generates delicious and personalized recipes based on the ingredients you provide. Whether you're a beginner or an expert in the kitchen, this tool makes meal planning quick and fun using artificial intelligence!
 
 🔗 Live Demo
